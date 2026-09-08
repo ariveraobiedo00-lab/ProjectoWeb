@@ -30,7 +30,7 @@ function sumatorioRecursivo($numero) {
     }
 }
 
-/*
+
  function mostrarCapicuas($numero) {
     for ($valor=$numero ; $valor>=0 ; $valor--) {
         if ($valor==invertirString(strval($valor))) {
@@ -38,7 +38,7 @@ function sumatorioRecursivo($numero) {
         }
     }
 }
-*/
+
 
 function mostrarCapicuas($numero) {
     $numeros=[];
